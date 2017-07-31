@@ -57,3 +57,4 @@ target/
 
 result-app/node_modules
 tutum.*.yml
+/.project
